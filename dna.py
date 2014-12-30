@@ -125,3 +125,5 @@ if __name__ == '__main__':
 
     # Draw
     draw(sequence)
+
+    print('Wrote {}.svg'.format(sequence))
